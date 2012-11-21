@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "usage"
-date: 2012-11-15 17:29
 comments: true
 sharing: true
 footer: true
