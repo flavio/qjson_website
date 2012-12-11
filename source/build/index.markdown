@@ -91,7 +91,7 @@ Then follow these steps:
   1. Start Qt Creator.
   2. Select: File → Open file or project.
   3. Go to the directory containing QJson's sources.
-  4. Open the qjson.pro file.
+  4. Open the `CMakeLists.txt` file.
   5. Open the Projects tab and ensure the build directory points to the path
      where qjson source code is located.
   6. Select: Build → Build all.
